@@ -8,4 +8,14 @@ class Settings:
         self.screen_height = 800
         self.bg_color = (220, 250, 250)
 
+        # Ship settings
+        self.ship_speed = 1.5
+
+        # Ball settings
+        self.ball_speed = 3
+        self.ball_width = 10
+        self.ball_height = 15
+        self.ball_color = (50, 250, 250)
+        self.balls_allowed = 3
+
         
